@@ -33,6 +33,8 @@ export default function Navbar() {
   );
 }
 
+
+// we can also used in .css file
 const NavWrapper = styled.nav`
   position: -webkit-sticky;
   position: sticky;
